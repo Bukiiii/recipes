@@ -1,0 +1,12 @@
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: underline;
+    
+}
+.recipe_name{
+    font-style: italic;
+    font-size: 18px;
+    color:chocolate ;
+    text-decoration:underline;
+    text-decoration-style: wavy;
+}
